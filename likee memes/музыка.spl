@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Soundlist>
+  <Sound hash="3463101291-1245184-38572" url="C:\Users\hairo\Downloads\Telegram Desktop\04335.mp3" artist="" title="http://noisefx.ru" duration="0:30" addedOn="2023-12-12"/>
+  <Sound hash="3463101291-196608-171435" url="C:\Users\hairo\Downloads\Telegram Desktop\Attack of the Killer Queen.mp3" artist="" title="Attack of the Killer Queen" duration="2:00" addedOn="2023-12-12"/>
+  <Sound hash="3463101291-851968-430207" url="C:\Users\hairo\Downloads\Telegram Desktop\Auuughhh(tiktok sound)Sound effect.mp3" artist="" title="Auuughhh(tiktok sound)Sound effect" duration="0:08" addedOn="2023-12-12"/>
+  <Sound hash="3463101291-2555904-77137" url="C:\Users\hairo\Downloads\Telegram Desktop\Doom_Eternal_OST_The_Only_Thing_They_Fear_Is_You_Mick_Gordon_Doom.mp3" artist="" title="Doom_Eternal_OST_The_Only_Thing_They_Fear_Is_You_Mick_Gordon_Doom" duration="6:53" addedOn="2023-12-12"/>
+  <Sound hash="3463101291-7471104-37731" url="C:\Users\hairo\Downloads\Telegram Desktop\Loonboon.mp3" artist="" title="Loonboon" duration="1:47" addedOn="2023-12-12"/>
+  <Sound hash="3463101291-3014656-72333" url="C:\Users\hairo\Downloads\Telegram Desktop\музыка фортнайтеров.mp3" artist="" title="музыка фортнайтеров" duration="0:13" addedOn="2023-12-12"/>
+  <Sound hash="3463101291-5505024-286787" url="C:\Users\hairo\Downloads\Telegram Desktop\FAITH_Mortis_Sound_Effect.mp3" artist="" title="FAITH_Mortis_Sound_Effect" duration="0:07" addedOn="2023-12-12"/>
+  <Sound hash="3463101291-7405568-114674" url="C:\Users\hairo\Downloads\Telegram Desktop\YoungBoy_Never_Broke_Again_Right_Foot_Creep_Official_Fortnite_Music.mp3" artist="" title="YoungBoy_Never_Broke_Again_Right_Foot_Creep_Official_Fortnite_Music" duration="2:39" addedOn="2023-12-12"/>
+  <Sound hash="3463101291-10878976-17634" url="C:\Users\hairo\Downloads\Telegram Desktop\Spongebob Music - Background Music (HD).mp3" artist="" title="Spongebob Music - Background Music (HD)" duration="2:07" addedOn="2023-12-12"/>
+  <Sound hash="3463101291-2293760-100052" url="C:\Users\hairo\Downloads\Telegram Desktop\Undertale OST_ 001 - Once Upon A Time.mp3" artist="" title="Undertale OST_ 001 - Once Upon A Time" duration="1:29" addedOn="2023-12-12"/>
+  <Sound hash="3463101291-2621440-15623" url="C:\Users\hairo\Downloads\Telegram Desktop\8c45249a77953dd.mp3" artist="" title="8c45249a77953dd" duration="0:29" addedOn="2023-12-12"/>
+  <Sound hash="3463101291-3407872-269144" url="C:\Users\hairo\Downloads\Telegram Desktop\Пафосная_музыка_под_которую_удобно_ебать_чугун.mp3" artist="" title="Пафосная_музыка_под_которую_удобно_ебать_чугун" duration="3:34" addedOn="2023-12-12"/>
+  <Categories>
+    <Category type="1" icon="stock_icon_cat_list" hidden="true"/>
+    <Category name="Мои звуки" icon="stock_icon_cat_home">
+      <Sound id="10"/>
+      <Sound id="1"/>
+      <Sound id="2"/>
+      <Sound id="3"/>
+      <Sound id="6"/>
+      <Sound id="0"/>
+      <Sound id="4"/>
+      <Sound id="8"/>
+      <Sound id="9"/>
+      <Sound id="7"/>
+      <Sound id="5"/>
+      <Sound id="11"/>
+    </Category>
+  </Categories>
+  <Hotbar>
+    <HotbarPage/>
+  </Hotbar>
+</Soundlist>
